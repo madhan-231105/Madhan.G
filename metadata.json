@@ -1,0 +1,5 @@
+{
+  "name": "GlassOS Portfolio",
+  "description": "A modern glassmorphism-inspired operating system portfolio with dynamic light/dark themes, draggable windows, and a macOS-style dock.",
+  "requestFramePermissions": []
+}
